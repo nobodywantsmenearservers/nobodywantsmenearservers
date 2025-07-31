@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
+
+##
+
 <h3 align="center">A passionate French IT guy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobodywantsmenearservers&label=Profile%20views&color=0e75b6&style=flat" alt="nobodywantsmenearservers" /> </p>
-
-#
 
 - 🔭 I’m currently working on **building my homelab**
 
@@ -12,8 +13,6 @@
 - 💬 Ask me about **bash, docker and linux**
 
 - 📫 How to reach me **noahstech.exe@tutamail.com**
-
-#
 
 <h3 align="left">Chat with me:</h3>
 <p align="left">
@@ -29,7 +28,7 @@
 ###
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools that I know:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
