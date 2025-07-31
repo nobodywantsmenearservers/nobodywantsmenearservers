@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobodywantsmenearservers&label=Profile%20views&color=0e75b6&style=flat" alt="nobodywantsmenearservers" /> </p>
 
+#
+
 - 🔭 I’m currently working on **building my homelab**
 
 - 🌱 I’m currently learning **git**
@@ -11,14 +13,16 @@
 
 - 📫 How to reach me **noahstech.exe@tutamail.com**
 
+#
+
 <h3 align="left">Chat with me:</h3>
 <p align="left">
   <div align="left">
   <a href="mailto:noahstech.exe@tutamail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="mail icon"  />
   </a>
   <a href="https://discord.com/users/@a._.pancake" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord icon"  />
   </a>
 </div>
 
