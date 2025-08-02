@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **noahstech.exe@tutamail.com**
 
-#
-
 <h3 align="left">Chat with me:</h3>
 <p align="left">
   <div align="left">
