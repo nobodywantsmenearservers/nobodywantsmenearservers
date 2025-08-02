@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nobodywantsmenearservers&label=Profile%20views&color=0e75b6&style=flat" alt="nobodywantsmenearservers" /> </p>
 
-#
-
 - 🔭 I’m currently working on **building my homelab**
 
 - 🌱 I’m currently learning **git**
